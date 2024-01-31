@@ -22,5 +22,9 @@ This Java application allows users to visualize and manipulate arrays in real-ti
 6. Enjoy visualizing and manipulating the array in real-time!
 
 ## Screenshots
+### Changing values with slider:
 ![Sorting Hub Demo](https://github.com/nadamur/Sorting-Hub/assets/114004182/04cf3d25-6412-499d-bac8-01cc7bc37bfb)
+
+### Sorting the array:
+![Sorting Hub 2024-01-31 11-12-06](https://github.com/nadamur/Sorting-Hub/assets/114004182/d2b7e7e2-597d-4e0c-bac5-3aab2722072a)
 
